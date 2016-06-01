@@ -1,3 +1,10 @@
+
+1. Създадете база данни ci_contactform
+2. Трябва да е UTF-8 GENERAL CI
+3. Импортирайте ci_contactform.sql или contact_form.sql
+4. Отворете localhost
+5. Изпратете имейл
+
 ###################
 What is CodeIgniter
 ###################
